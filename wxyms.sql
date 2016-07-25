@@ -123,3 +123,4 @@ INSERT INTO `wxyms_weixin_rule_keywords` VALUES ('2', '2', '1', 'unsubscribe', '
 INSERT INTO `wxyms_weixin_rule_keywords` VALUES ('3', '3', '1', 'autoreply', '0', '10');
 INSERT INTO `wxyms_weixin_rule_keywords` VALUES ('4', '5', '2', '笑话', '0', '1');
 INSERT INTO `wxyms_weixin_rule_keywords` VALUES ('5', '4', '2', '天气预报', '0', '1');
+INSERT INTO `wxyms_weixin_rule_keywords` VALUES ('6', '1', '2', '天气预报', '0', '1');
